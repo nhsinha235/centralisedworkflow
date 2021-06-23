@@ -1,3 +1,2 @@
 
-updating seven
-this is updating new line for rebase 
+updating seven 
